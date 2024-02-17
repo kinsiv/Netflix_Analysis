@@ -11,5 +11,7 @@ Measurements of center and distribution provide insight into improvements Netfli
 6. Is imdb score correlated to genres or age certification?
 
 ## Key Findings:
-1. Customers with a wider demographic of video genres will pass by videos easier, causing unnoticed videos.
+1. Audiences with a wider variety of video genres will pass by videos easier, causing unnoticed videos.
 2. Top-ranking video genres require marketing so new content stands out from the older catalog.
+3. Focus on shorter season lengths. Ensure that new content offerings are diverse and engaging, maintaining a balance between quality and quantity.
+4. When developing shows, aim for a balance between the number of seasons and runtime to maximize viewer satisfaction.
