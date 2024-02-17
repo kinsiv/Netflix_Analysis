@@ -10,6 +10,6 @@ Research Questions:
 5. For movies: is imdb score correlated to runtime?
 6. Is imdb score correlated to genres or age certification?
 
-2 Key Insights:
-Customers with a wider demographic of video genres will pass by videos easier, causing unnoticed videos.
-Top-ranking video genres require marketing so new content stands out from the older catalog.
+Key Insights:
+1. Customers with a wider demographic of video genres will pass by videos easier, causing unnoticed videos.
+2. Top-ranking video genres require marketing so new content stands out from the older catalog.
