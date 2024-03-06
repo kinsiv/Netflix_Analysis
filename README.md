@@ -10,7 +10,7 @@ Measurements of center and distribution provide insight into improvements Netfli
 5. For movies: is imdb score correlated to runtime?
 6. Is imdb score correlated to genres or age certification?
 
-## Business & Actionable Insights:
+## Actionable Insights:
 *Dataset size (N) is 54,589.*
 1. Audiences with a wider variety of video genres will pass by videos easier, causing unnoticed videos.
 2. Top-ranking video genres require marketing so new content stands out from the older catalog.
